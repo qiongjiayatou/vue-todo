@@ -4,7 +4,7 @@
             <div class="form-group">
                 <input v-model="title" type="text" class="form-control" placeholder="Task...">
             </div>
-            <button type="submit" class="btn btn-success">Submit</button>
+            <button type="submit" class="btn btn-success">Add</button>
         </form>
     </div>
     
